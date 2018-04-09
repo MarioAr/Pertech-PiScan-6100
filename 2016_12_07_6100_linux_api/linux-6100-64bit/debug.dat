@@ -1,0 +1,55 @@
+Devices in list:
+Devices in list:
+Devices in list:
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Kernel Driver Detached!
+Claimed Interface
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+Start time
+First Status After Scan success
+Second Status After Scan success
+Scan time=2390,382195 mS
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 0
+Transfer Image time=15,255665 mS
+PriBESetMICRDecodeFont: 1
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 3A0C
+getRAWMicr: success, Size = 3A0C
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+Start time
+First Status After Scan success
+Second Status After Scan success
+PriBESetMICRDecodeFont: 1
+PriBESetMICRDecodeScheme: 2
+PriBEXmitMICRDecodeString
+PriBESetMICRDecodeFont: 1
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 0
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A

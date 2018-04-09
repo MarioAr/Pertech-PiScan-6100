@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Pertech Logo
+Comment=Pertech 6100 Driver for Ubuntu
+Exec=gtktest
+Icon=pertechlogo.xpm
+Terminal=true
+Type=Application
+Categories=Application;

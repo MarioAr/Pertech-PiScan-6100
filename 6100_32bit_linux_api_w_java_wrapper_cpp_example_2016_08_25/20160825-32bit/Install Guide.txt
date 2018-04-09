@@ -1,0 +1,9 @@
+This guide is based upon Ubuntu 16.04LTS 32-bit Desktop:
+
+1. Copy .so files from usr/local/lib to /usr/local/lib
+2. Change permission on the four copied .so files in /usr/local/lib using sudo chmod 755
+3. Perform sudo apt-get update
+4. Install libjpeg9 (sudo apt-get install libjpeg9)
+5. Perform sudo ldconfig
+
+add execute rights to necessary files for either gtktest or 6100 Java Wrapper depending on if using Java or C++

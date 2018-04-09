@@ -1,0 +1,1309 @@
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Cannot Claim Interface
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Kernel Driver Detached!
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=1, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=0
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+Released Interface
+Release libusb
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 2479A8
+getImage: success, Size = 2479A8
+D
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 247438
+getImage: success, Size = 247438
+D
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Cannot Claim Interface
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=0, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=0
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 247438
+getImage: success, Size = 247438
+D
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 246958
+getImage: success, Size = 246958
+D
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+Released Interface
+Release libusb
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 246956
+getImage: success, Size = 246956
+D
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 42A4
+getRAWMicr: success, Size = 42A4
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 2463EB
+getImage: success, Size = 2463EB
+D
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 429C
+getRAWMicr: success, Size = 429C
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 90B524
+getImage: success, Size = 90B524
+D
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 3D7A5D
+getImage: success, Size = 3D7A5D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 143425
+getImage: success, Size = 143425
+D
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 2E88
+getRAWMicr: success, Size = 2E88
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Kernel Driver Detached!
+Claimed Interface
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 143875
+getImage: success, Size = 143875
+D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 143423
+getImage: success, Size = 143423
+D
+Devices in list:
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Kernel Driver Detached!
+Claimed Interface
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 144E05
+getImage: success, Size = 144E05
+D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 145253
+getImage: success, Size = 145253
+D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 144E05
+getImage: success, Size = 144E05
+D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 144E02
+getImage: success, Size = 144E02
+D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 3DBBFA
+getImage: success, Size = 3DBBFA
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 508BF5
+getImage: success, Size = 508BF5
+D
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 2EC0
+getRAWMicr: success, Size = 2EC0
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Kernel Driver Detached!
+Claimed Interface
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 1E7438
+getImage: success, Size = 1E7438
+D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 1E78EB
+getImage: success, Size = 1E78EB
+D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 1E78F8
+getImage: success, Size = 1E78F8
+D
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 43C4
+getRAWMicr: success, Size = 43C4
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+Released Interface
+Release libusb
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Kernel Driver Detached!
+Claimed Interface
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+PiScanFreeBufferIndex was called by the application.
+PriScanGetStatus was called by the application.
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+Cannot Release Interface
+Release libusb
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Kernel Driver Detached!
+Claimed Interface
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 194047
+getImage: success, Size = 194047
+D
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=0, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=0
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 197057
+getImage: success, Size = 197057
+D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 198F80
+getImage: success, Size = 198F80
+D
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 3A70
+getRAWMicr: success, Size = 3A70
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4E0BFE
+getImage: success, Size = 4E0BFE
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4E1A3E
+getImage: success, Size = 4E1A3E
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4DA83E
+getImage: success, Size = 4DA83E
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4E0BFE
+getImage: success, Size = 4E0BFE
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4DA83E
+getImage: success, Size = 4DA83E
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4D99E6
+getImage: success, Size = 4D99E6
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4E1A3E
+getImage: success, Size = 4E1A3E
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 3A5C
+getRAWMicr: success, Size = 3A5C
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4D8BA6
+getImage: success, Size = 4D8BA6
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4D52A6
+getImage: success, Size = 4D52A6
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+Released Interface
+Release libusb
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+Released Interface
+Release libusb
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+Released Interface
+Release libusb
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4D4466
+getImage: success, Size = 4D4466
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4E1A3E
+getImage: success, Size = 4E1A3E
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4E1A3E
+getImage: success, Size = 4E1A3E
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4DB67E
+getImage: success, Size = 4DB67E
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+Released Interface
+Release libusb
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4CD27E
+getImage: success, Size = 4CD27E
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Kernel Driver Detached!
+Claimed Interface
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 195C48
+getImage: success, Size = 195C48
+D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4D99FE
+getImage: success, Size = 4D99FE
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4D99FE
+getImage: success, Size = 4D99FE
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 196EE8
+getImage: success, Size = 196EE8
+D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4DD2FE
+getImage: success, Size = 4DD2FE
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4DE13E
+getImage: success, Size = 4DE13E
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 3A34
+getRAWMicr: success, Size = 3A34
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4D362D
+getImage: success, Size = 4D362D
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 39BC
+getRAWMicr: success, Size = 39BC
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4D60ED
+getImage: success, Size = 4D60ED
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4D7D6D
+getImage: success, Size = 4D7D6D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Cannot Claim Interface
+PiScanFreeBufferIndex was called by the application.
+Cannot Release Interface
+Release libusb
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Cannot Claim Interface
+PiScanFreeBufferIndex was called by the application.
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x84
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 0
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x84
+getRAWMicr: Size = 0
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x84
+getImage: Size = 0
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+getRAWMicr: Size = 0
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PriScanGetStatus was called by the application.
+getScanStatus: fail!
+getScanStatus: fail!
+Devices in list:
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+Devices in list:
+Devices in list:
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+Devices in list:
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Cannot Claim Interface
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=1, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=0
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+Cannot Release Interface
+Release libusb
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PiScanFreeBufferIndex was called by the application.
+Released Interface
+Release libusb
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+PriScanGetStatus was called by the application.
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+Devices in list:
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=3, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=17
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PriScanGetStatus was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x70
+ub_uf=26, ub_id=204, ub_cc=112, ub_sens=1, ub_bx=0, ub_bs=0, ub_stat=0, ub_sstat=0
+Devices in list:
+VID=1431, PID=6100
+ret=LIBUSB_SUCCESS / LIBUSB_TRANSFER_COMPLETED
+Device Opened
+Claimed Interface
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 193558
+getImage: success, Size = 193558
+D
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4D99FE
+getImage: success, Size = 4D99FE
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A
+PiScanFreeBufferIndex was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x79
+PiScanSelectScanFunctions was called by the application.
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x71
+PiScan Sending scan wait time=150
+First Status After Scan success
+Second Status After Scan success
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x6D
+PriBEX: select-imgXMmit-format
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x76
+getImage: Size = 4DA83E
+getImage: success, Size = 4DA83E
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 3A0C
+getRAWMicr: success, Size = 3A0C
+PriBESetMICRDecodeFont: 0
+PriBESetMICRDecodeScheme: 1
+PriBEXmitMICRDecodeString
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7B
+getRAWMicr: Size = 3A0C
+getRAWMicr: success, Size = 3A0C
+getScanStatus: success, ub_uf = 0x1A, ub_id = 0xCC, ub_cc = 0x7A

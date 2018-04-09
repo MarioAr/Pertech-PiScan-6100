@@ -1,0 +1,26 @@
+Pertech 6100 Driver Readme
+
+This product will work for Linux Ubuntu. Other distributions can work if you edit the install.sh file accordingly.
+
+Install Instructions
+
+Extract the contents of the compressed file to any location of your choosing.
+Open up the Terminal and navigate to the location of the extracted files. You should see the install.sh file in this directory
+Run the install.sh file
+
+sudo ./install.sh
+
+Make sure you have the right permissions.
+Wait for the installation process to complete.
+Once complete, navigate to the 6100-C-Test folder.
+Plug in the 6100 Check Scanner
+run the gtktest executable
+
+sudo ./gtktest
+
+The program should start up. Press the Connect button to make sure the driver works properly.
+
+If you have any questions, please contact support by calling 1-800-800-6614 Monday-Friday 8am-5pm
+
+
+
